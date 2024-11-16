@@ -5,7 +5,7 @@
 ## [PREAMBLE](PREAMBLE.md)
 
 ## TITLE I - Fundamental Rights and Freedoms
-- Chapter I - General Principles (Articles I to XX)
+- [Chapter I - General Principles (Articles I to XX)](TITLE_1_CH_1.md)
 - Chapter II - Social and Economic Rights
 - Chapter III - Civil and Political Rights
 
