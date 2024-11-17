@@ -10,4 +10,4 @@
 
 ---
 
-Previous: [TITLE-I/Chapter-I](TITLE_1_CH_1.md)
+Previous: [TITLE I - Fundamental Rights and Freedoms/Chapter I - General Principles (Articles I to XX)](TITLE_1_CH_1.md)
