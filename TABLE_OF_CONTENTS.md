@@ -29,28 +29,23 @@
 - Chapter II - Rights and Protections in Legal Proceedings
 - Chapter III - Criminal Justice and Corrections
 
-## TITLE VI - Economy and Finance
-- Chapter I - Federal Economic Policy
-- Chapter II - Taxation and Revenue Sharing
-- Chapter III - Labor and Employment
-
-## TITLE VII - Environment and Sustainable Development 
+## TITLE VI - Environment and Sustainable Development 
 - Chapter I - Environmental Protection
 - Chapter II - Sustainable Development Goals
 
-## TITLE VIII - National Security and Defense 
+## TITLE VII - National Security and Defense 
 - Chapter I - Federal Defense Forces
 - Chapter II - Emergency Powers and Civil Liberties
 
-## TITLE IX - Constitutional Amendments and Revision 
+## TITLE VIII - Constitutional Amendments and Revision 
 - Chapter I - Amendment Process
 - Chapter II - Constitutional Revision Convention
 
-## TITLE X - Transitional and Final Provisions 
+## TITLE IX - Transitional and Final Provisions 
 - Chapter I - Implementation and Supremacy of the Constitution
 - Chapter II - Interpretation and Constitutional Jurisprudence
 
-## TITLE XI - Duties of Citizens 
+## TITLE X - Duties of Citizens 
 - Chapter I - General Civic Responsibilities
 - Chapter II - Contributions to the Common Good
 - Chapter III - Promotion of Peace and International
