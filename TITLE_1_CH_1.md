@@ -68,4 +68,4 @@ Every person has the right to marry and found a family, and no marriage shall be
 
 ---
 
-Previous: [Preamble](PREAMBLE.md)
+Previous: [Preamble](PREAMBLE.md) | Next: [TITLE I - Fundamental Rights and Freedoms/Chapter II: Social and Economic Rights](TITLE_1_CH_2.md)
