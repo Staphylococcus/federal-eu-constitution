@@ -2,7 +2,7 @@
 
 ## Chapter I - General Principles
 
-### Article 1. 
+### Article I. 
 All citizens, regardless of ethnicity, gender, social class, sexual orientation, political opinion, religion, or any other personal or social condition or circumstance, are equal before the law and enjoy the same rights and freedoms without discrimination.
 
 ### Article II. 
