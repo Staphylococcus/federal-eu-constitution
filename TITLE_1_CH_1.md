@@ -15,7 +15,7 @@ Freedom of the press is a fundamental right and shall be guaranteed in all its f
 Every citizen has the right to freedom of religion. This includes freedom to change religion or belief, and freedom to manifest religion or belief in worship, practice, observance, and teaching, alone or in community with others, in public or in private.
 
 ### Article V. 
-Every citizen has the right to freedom of peaceful assembly and association. This includes the right to form and join associations, organizations, and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution.
+Every citizen has the right to freedom of peaceful assembly and association. This includes the right to form and join associations, organizations, and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution in accordance with the law.
 
 ### Article VI. 
 The Rights of Man and of the Citizen described in the 1789 declaration are guaranteed. This applies equally to women and all citizens.
@@ -24,7 +24,7 @@ The Rights of Man and of the Citizen described in the 1789 declaration are guara
 No one shall be held in slavery or involuntary servitude. All forms of forced labor, except time-limited community service as a criminal sanction, are prohibited. All citizens have the right to freely choose their profession and enter into employment contracts.
 
 ### Article VIII. 
-Every person has an inherent right to dignity. Laws and policies must respect people’s dignity and prohibit degrading treatment. No citizen shall be subjected to excessive bail, fines, or inhumane punishment such as torture.
+Every person has an inherent right to dignity. Laws and policies must respect people’s dignity and prohibit degrading treatment. No citizen shall be subjected to excessive fines or inhumane punishment such as torture.
 
 ### Article IX. 
 Every citizen has the right to personal security and privacy. Unreasonable search, surveillance, or seizure of property or person is prohibited without a specific warrant issued by a competent judicial authority.
