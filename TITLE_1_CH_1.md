@@ -15,7 +15,7 @@ Freedom of the press is a fundamental right and shall be guaranteed in all its f
 Every citizen has the right to freedom of religion. This includes freedom to change religion or belief, and freedom to manifest religion or belief in worship, practice, observance, and teaching, alone or in community with others, in public or in private.
 
 ### Article V. 
-Every citizen has the right to freedom of peaceful assembly and association. This includes the right to form and join associations, organizations, and political parties, as well as the right to take part in peaceful demonstrations and protests, without fear of reprisal or persecution.
+Every citizen has the right to freedom of peaceful assembly and association. This includes the right to form and join associations, organizations, and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution.
 
 ### Article VI. 
 The Rights of Man and of the Citizen described in the 1789 declaration are guaranteed. This applies equally to women and all citizens.
