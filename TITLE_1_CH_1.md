@@ -61,3 +61,11 @@ Every citizen has the right to access information held by public authorities, su
 
 ### Article XX. 
 Every person has the right to marry and found a family, and no marriage shall be entered into without the free and full consent of both parties.
+
+---
+
+[Table of Contents](TABLE_OF_CONTENTS.md)
+
+---
+
+Previous: [Preamble](PREAMBLE.md)

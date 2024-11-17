@@ -9,3 +9,11 @@ Determined to maintain the sovereignty of our nations within the framework of a 
 In respect for the principles of popular sovereignty, we assert that all power emanates from the people, and through this Constitution, we bind ourselves to a democratic order that respects the diversity and independence of our Member States, while striving to build an indivisible Union dedicated to the common good.
 
 In this spirit, we Europeans solemnly adopt this Constitution as the supreme law of the land.
+
+---
+
+[Table of Contents](TABLE_OF_CONTENTS.md)
+
+---
+
+Next: [Title 1 (Fundamental Rights and Freedoms), Chapter 1 (General Principles)](TITLE_1_CH_1.md)
