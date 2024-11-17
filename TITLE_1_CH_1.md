@@ -42,7 +42,10 @@ Every individual has the right to move freely within the country, choose their p
 Everyone has the right to acquire, own, use, and dispose of private property, either individually or in association with others. This right is protected and inviolable, except where restricted by law for public necessity, utility, or social equity, and only in return for just and adequate compensation. The right of inheritance is guaranteed.
 
 ### Article XIV. 
-The death penalty shall be abolished. No individual may be subjected to capital punishment under any circumstances. Life imprisonment or other forms of punishment constitute the maximum penalty for criminal offenses, in accordance with the principles of human dignity and justice defined in Article VIII.
+The death penalty shall be abolished.
+Life imprisonment without parole shall be abolished
+Who are condemned to life imprisonment must have granted the possibility of a parole after 20 years of imprisonment or less.
+No individual may be subjected to capital punishment under any circumstances. Life imprisonment or other forms of punishment constitute the maximum penalty for criminal offenses, in accordance with the principles of human dignity and justice defined in Article VIII.
 
 ### Article XV. 
 All foreigners legally present in the country enjoy the protection of the law in respect of their person and property.
