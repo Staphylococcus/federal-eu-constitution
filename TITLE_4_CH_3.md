@@ -1,4 +1,4 @@
-# TITLE III - Member State Rights and Obligations
+# TITLE IV - Electoral Processes and Democratic Participation
 
 ## Chapter III - Referendums and Direct Democracy
 
