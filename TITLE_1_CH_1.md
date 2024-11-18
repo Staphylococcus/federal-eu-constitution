@@ -24,7 +24,7 @@ The fundamental Rights of Man and of the Citizen described in the 1789 declarati
 No one shall be held in slavery or involuntary servitude. All forms of forced labor are prohibited, except for time-limited community service as part of a criminal sanction. Citizens and legal residents have the right to freely choose their profession and enter into employment contracts.
 
 ### Article VIII. 
-Every person has an inherent right to dignity. Laws and policies must respect people’s dignity and prohibit degrading treatment. No citizen shall be subjected to excessive fines or inhumane punishment such as torture.
+Every person has an inherent right to dignity. Laws and policies must respect people’s dignity and prohibit degrading treatment. No individual shall be subjected to excessive fines or inhumane punishment such as torture.
 
 ### Article IX. 
 Every citizen has the right to personal security and privacy. Unreasonable search, surveillance, or seizure of property or person is prohibited without a specific warrant issued by a competent judicial authority.
