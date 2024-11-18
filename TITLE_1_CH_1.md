@@ -18,7 +18,7 @@ All individuals have the right to freedom of religion or belief. This includes t
 Every citizen has the right to freedom of peaceful assembly and association. This includes the right to form and join associations, organizations, and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution in accordance with the law.
 
 ### Article VI. 
-The Rights of Man and of the Citizen described in the 1789 declaration are guaranteed. This applies equally to women and all citizens.
+The fundamental Rights of Man and of the Citizen described in the 1789 declaration are guaranteed to all individuals, regardless of immutable characteristics such as gender, ethnicity, nationality, or any other personal condition.
 
 ### Article VII. 
 No one shall be held in slavery or involuntary servitude. All forms of forced labor, except time-limited community service as a criminal sanction, are prohibited. All citizens have the right to freely choose their profession and enter into employment contracts.
