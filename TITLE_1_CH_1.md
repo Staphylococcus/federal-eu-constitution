@@ -21,7 +21,7 @@ Every citizen has the right to freedom of peaceful assembly and association. Thi
 The fundamental Rights of Man and of the Citizen described in the 1789 declaration are guaranteed to all individuals, regardless of immutable characteristics such as gender, ethnicity, nationality, or any other personal condition.
 
 ### Article VII. 
-No one shall be held in slavery or involuntary servitude. All forms of forced labor, except time-limited community service as a criminal sanction, are prohibited. All citizens have the right to freely choose their profession and enter into employment contracts.
+No one shall be held in slavery or involuntary servitude. All forms of forced labor are prohibited, except for time-limited community service as part of a criminal sanction. Citizens and legal residents have the right to freely choose their profession and enter into employment contracts.
 
 ### Article VIII. 
 Every person has an inherent right to dignity. Laws and policies must respect people’s dignity and prohibit degrading treatment. No citizen shall be subjected to excessive fines or inhumane punishment such as torture.
