@@ -12,19 +12,19 @@ Freedom of thought, conscience, press, and expression are inalienable and guaran
 Freedom of the press is a fundamental right and shall be guaranteed in all its forms. Journalists shall have the right to access sources of information in accordance with the law and shall be protected in the exercise of their professional duties. The independence of the press and the confidentiality of journalistic sources shall be inviolable.
 
 ### Article IV. 
-All individuals have the right to freedom of religion or belief. This includes the freedom to change one's religion or belief and the freedom to manifest religion or belief in worship, practice, observance, and teaching, either individually or in community with others, in public or private spaces.
+Every citizen has the right to freedom of religion. This includes freedom to change religion or belief, and freedom to manifest religion or belief in worship, practice, observance, and teaching, alone or in community with others, in public or in private.
 
 ### Article V. 
 Every citizen has the right to freedom of peaceful assembly and association. This includes the right to form and join associations, organizations, and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution in accordance with the law.
 
 ### Article VI. 
-The fundamental Rights of Man and of the Citizen described in the 1789 declaration are guaranteed to all individuals, regardless of immutable characteristics such as gender, ethnicity, nationality, or any other personal condition.
+The Rights of Man and of the Citizen described in the 1789 declaration are guaranteed. This applies equally to women and all citizens.
 
 ### Article VII. 
-No one shall be held in slavery or involuntary servitude. All forms of forced labor are prohibited, except for time-limited community service as part of a criminal sanction. Citizens and legal residents have the right to freely choose their profession and enter into employment contracts.
+No one shall be held in slavery or involuntary servitude. All forms of forced labor, except time-limited community service as a criminal sanction, are prohibited. All citizens have the right to freely choose their profession and enter into employment contracts.
 
 ### Article VIII. 
-Every person has an inherent right to dignity. Laws and policies must respect people’s dignity and prohibit degrading treatment. No individual shall be subjected to excessive fines or inhumane punishment such as torture.
+Every person has an inherent right to dignity. Laws and policies must respect people’s dignity and prohibit degrading treatment. No citizen shall be subjected to excessive fines or inhumane punishment such as torture.
 
 ### Article IX. 
 Every citizen has the right to personal security and privacy. Unreasonable search, surveillance, or seizure of property or person is prohibited without a specific warrant issued by a competent judicial authority.
