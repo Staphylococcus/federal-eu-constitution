@@ -12,7 +12,7 @@ Freedom of thought, conscience, press, and expression are inalienable and guaran
 Freedom of the press is a fundamental right and shall be guaranteed in all its forms. Journalists shall have the right to access sources of information in accordance with the law and shall be protected in the exercise of their professional duties. The independence of the press and the confidentiality of journalistic sources shall be inviolable.
 
 ### Article IV. 
-Every citizen has the right to freedom of religion. This includes freedom to change religion or belief, and freedom to manifest religion or belief in worship, practice, observance, and teaching, alone or in community with others, in public or in private.
+All individuals have the right to freedom of religion or belief. This includes the freedom to change one's religion or belief and the freedom to manifest religion or belief in worship, practice, observance, and teaching, either individually or in community with others, in public or private spaces.
 
 ### Article V. 
 Every citizen has the right to freedom of peaceful assembly and association. This includes the right to form and join associations, organizations, and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution in accordance with the law.
