@@ -3,17 +3,16 @@
 ## Chapter I - General Principles
 
 ### Article I. 
-All citizens, regardless of ethnicity, gender, social class, sexual orientation, political opinion, religion, or any other personal or social condition or circumstance, are equal before the law and enjoy the same rights and freedoms without discrimination.
-(Every citizen has a moral duty, without prejudice to his personal freedom, to use his abilities to fulfil the inalienable duties of political, economic and social solidarity, without which the existence of rights would be impossible.)
+Any government body or actor shall ensure that all citizens, regardless of their ethnicity, gender, social class, sexual orientation, political opinion, religion or any other personal or social condition or circumstance, are equal before the law and enjoy the same rights and freedoms without discrimination.
 
 ### Article II. 
-Freedom of thought, conscience, press, and expression are inalienable and guaranteed to all citizens. This includes the freedom to seek, receive, and impart information and ideas through any form of media without interference, censorship, or prior restraint by government or other authorities, regardless of frontiers. Restrictions must comply with the law.
+No government body or actor shall restrict the fundamental freedoms, namely freedom of thought, conscience, press and expression, which are inalienable and guaranteed to all citizens; it shall ensure that all individuals can enjoy them. This includes the freedom to seek, receive and impart information and ideas through any form of media without interference, censorship or prior restraint by government or other authorities, regardless of frontiers. Restrictions must be in accordance with the law.
 
 ### Article III. 
-Freedom of the press is a fundamental right and shall be guaranteed in all its forms. Journalists shall have the right to access sources of information in accordance with the law and shall be protected in the exercise of their professional duties. The independence of the press and the confidentiality of journalistic sources shall be inviolable.
+No government body or actor shall restrict the freedom of the press, which shall be guaranteed in all its forms. Journalists shall have the right to access sources of information in accordance with the law, and shall be protected in the exercise of their professional duties. The independence of the press and the confidentiality of journalistic sources shall be inviolable.
 
 ### Article IV. 
-All individuals have the right to freedom of religion or belief. This includes the freedom to change one's religion or belief and the freedom to manifest religion or belief in worship, practice, observance, and teaching, either individually or in community with others, in public or private spaces.
+No government body or actor shall prohibit the free exercise of any religion, all individuals have the right to freedom of religion or belief. This includes the freedom to change one's religion or belief and the freedom to manifest religion or belief in worship, practice, observance, and teaching, either individually or in community with others, in public or private spaces.
 
 ### Article V. 
 Every citizen has the right to freedom of peaceful assembly and association. This includes the right to form and join associations, organizations, and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution in accordance with the law.
