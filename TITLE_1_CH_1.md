@@ -15,19 +15,19 @@ No government body or actor shall  in any way restrict the freedom of the press,
 No government body or actor shall  in any way prohibit the free exercise of any religion, all individuals shall have the right to freedom of religion or belief. This includes the freedom to change one's religion or belief and the freedom to manifest religion or belief in worship, practice, observance, and teaching, either individually or in community with others, in public or private spaces.
 
 ### Article V. 
-Every citizen has the right to freedom of peaceful assembly and association. This includes the right to form and join associations, organizations, and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution in accordance with the law.
+No government body or actor shall restrict in any way the right of peaceful assembly and association. This includes the right to form and join associations, organizations and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution, in accordance with the law.
 
 ### Article VI. 
-The fundamental Rights of Man and of the Citizen described in the 1789 declaration are guaranteed to all individuals, regardless of immutable characteristics such as gender, ethnicity, nationality, or any other personal condition.
+No government body or actor shall adopt or apply laws that fail to respect the fundamental human and civil rights described in the 1789 Declaration, which are guaranteed to all individuals, regardless of immutable characteristics such as gender, ethnicity, nationality or any other personal condition.
 
 ### Article VII. 
-No one shall be held in slavery or involuntary servitude. All forms of forced labor are prohibited, except for time-limited community service as part of a criminal sanction. Citizens and legal residents have the right to freely choose their profession and enter into employment contracts.
+No one may be held in slavery or involuntary servitude. All forms of forced labor shall be prohibited, and no government body or actor shall legislate to authorize them, with the exception of time-limited community service as part of a criminal penalty when the accused has been convicted. Citizens and legal residents have the right to freely choose their profession and enter into employment contracts.
 
 ### Article VIII. 
-Every person has an inherent right to dignity. Laws and policies must respect people’s dignity and prohibit degrading treatment. No individual shall be subjected to excessive fines or inhumane punishment such as torture.
+Everyone has an inherent right to dignity. All laws, all government bodies and actors, and all policies shall respect people's dignity and prohibit degrading treatment. No individual should be subjected to excessive fines or inhumane punishments such as torture.
 
 ### Article IX. 
-Every citizen has the right to personal security and privacy. Unreasonable search, surveillance, or seizure of property or person is prohibited without a specific warrant issued by a competent judicial authority.
+Every citizen has the right to personal security and privacy. No government body or actor shall infringe on these rights. Unreasonable search, surveillance or seizure of property or persons shall be prohibited without a specific warrant describing precisely what is to be searched, monitored or seized, issued by a competent judicial authority. In addition, the only searches that shall be considered lawful and  reasonable without the need for a warrant are those supported by the consent of the legal owner, over 18 years of age, of the property surveyed, seized or searched or those carried out in an emergency supported by probable cause and limited by law, when a person is in danger of death, assault or serious injury or when incriminating evidence of a serious crime is in danger of being destroyed.
 
 ### Article X. 
 Citizens’ personal data and communications are protected against arbitrary interference. Data can only be collected, stored, and processed with the individual’s consent and in accordance with the law. The right to be forgotten is guaranteed.
