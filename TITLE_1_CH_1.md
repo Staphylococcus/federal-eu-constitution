@@ -4,6 +4,7 @@
 
 ### Article I. 
 All citizens, regardless of ethnicity, gender, social class, sexual orientation, political opinion, religion, or any other personal or social condition or circumstance, are equal before the law and enjoy the same rights and freedoms without discrimination.
+(Every citizen has a moral duty, without prejudice to his personal freedom, to use his abilities to fulfil the inalienable duties of political, economic and social solidarity, without which the existence of rights would be impossible.)
 
 ### Article II. 
 Freedom of thought, conscience, press, and expression are inalienable and guaranteed to all citizens. This includes the freedom to seek, receive, and impart information and ideas through any form of media without interference, censorship, or prior restraint by government or other authorities, regardless of frontiers. Restrictions must comply with the law.
