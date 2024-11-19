@@ -5,10 +5,13 @@ A conversation starter project for a crowdsourced constitution of federal Europe
 Start reading here: [Table of Contents](TABLE_OF_CONTENTS.md)
 
 # Contributing
-All the contributions are welcome, however big or small. The intention is to open the process to anyone and everyone.
+All contributions are welcome, however big or small. The intention is to open the process to anyone and everyone.
 
 ### Contribute your thoughts
-Probably the easiest way to contribute is to open an issue [here](https://github.com/Staphylococcus/federal-eu-constitution/issues). This is a public forum, and all the ideas and questions are welcome.
+Probably the easiest way to contribute is to open an issue [here](https://github.com/Staphylococcus/federal-eu-constitution/issues). This is a public forum, and all ideas and questions are welcome.
+
+### Contribution Guidelines
+For detailed guidelines on how to contribute, please check out the [Wiki](https://github.com/Staphylococcus/federal-eu-constitution/wiki).
 
 ### Contribute to the text directly
 Everyone is encouraged to open a pull request with their contribution to the body of the constitution. Probably not everything will get merged, but most pull requests will result in a conversation that will shape the thinking going forward.
