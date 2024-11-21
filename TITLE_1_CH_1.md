@@ -21,7 +21,7 @@ No government body or actor shall restrict in any way the right of peaceful asse
 No government body or actor shall adopt or apply laws that fail to respect the fundamental human and civil rights described in the 1789 Declaration, which are guaranteed to all individuals, regardless of immutable characteristics such as gender, ethnicity, nationality or any other personal condition.
 
 ### Article VII. 
-No one may be held in slavery or involuntary servitude. All forms of forced labor shall be prohibited, and no government body or actor shall legislate to authorize them, with the exception of time-limited community service as part of a criminal penalty when the accused has been convicted. Citizens and legal residents have the right to freely choose their profession and enter into employment contracts.
+No one shall be held in slavery or involuntary servitude. All forms of forced labor shall be prohibited, and no government body or actor shall legislate in any way to authorize them, with the exception of time-limited community service, which shall not exceed five hundred hours with a daily maximum of eight hours, in accordance with local labor laws, as part of a criminal sanction where the accused has been legally convicted. Citizens and legal residents have the right to freely choose their profession and enter into employment contracts.
 
 ### Article VIII. 
 Everyone has an inherent right to dignity. All laws, all government bodies and actors, and all policies shall respect people's dignity and prohibit degrading treatment. No individual should be subjected to excessive fines or inhumane punishments such as torture.
