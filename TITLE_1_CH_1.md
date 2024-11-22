@@ -3,7 +3,7 @@
 ## Chapter I - General Principles
 
 ### Article I. 
-Any government body or actor shall ensure that all citizens, regardless of their ethnicity, gender, social class, sexual orientation, political opinion, religion or any other personal or social condition or circumstance, are equal before the law and enjoy the same rights and freedoms without discrimination.
+Any government body or actor shall ensure that all citizens, regardless of their ethnicity, gender, social class, sexual orientation, political opinion, religion or any other personal or social condition or circumstance, are equal before the law and enjoy the same rights and freedoms without discrimination. No government body or actor shall enact, enforce, or tolerate policies, actions, or practices that result in oppression or unfair treatment of any individual or group on the basis of such personal or social conditions or circumstances
 
 ### Article II. 
 No government body or actor shall in any way restrict the fundamental freedoms, namely freedom of thought, conscience, press and expression, which are inalienable and guaranteed to all citizens; it shall ensure that all individuals can enjoy them. This includes the freedom to seek, receive and impart information and ideas through any form of media without interference, censorship or prior restraint by government or other authorities, regardless of frontiers. Restrictions must be in accordance with the law.
