@@ -18,7 +18,7 @@ No government body or actor shall  in any way prohibit the free exercise of any 
 No government body or actor shall restrict in any way the right of peaceful assembly and association. This includes the right to form and join associations, organizations and political parties, as well as the right to take part in peaceful demonstrations, strikes and protests, without fear of reprisal or persecution, in accordance with the law.
 
 ### Article VI. 
-No government body or actor shall adopt or apply laws that fail to respect the fundamental human and civil rights described in the 1789 Declaration, which are guaranteed to all individuals, regardless of immutable characteristics such as gender, ethnicity, nationality or any other personal condition.
+No government body or actor shall make or enforce laws that fail to respect the human and civil rights described in the 1948 Universal Declaration of Human Rights, which must be guaranteed to all individuals, regardless of immutable characteristics such as gender, ethnicity, nationality or any other personal condition.
 
 ### Article VII. 
 No one shall be held in slavery or involuntary servitude. All forms of forced labor shall be prohibited, and no government body or actor shall legislate in any way to authorize them, with the exception of time-limited community service, which shall not exceed five hundred hours with a daily maximum of eight hours, in accordance with local labor laws, as part of a criminal sanction where the accused has been legally convicted. Citizens and legal residents have the right to freely choose their profession and enter into employment contracts.
