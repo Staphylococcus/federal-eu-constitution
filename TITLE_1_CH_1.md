@@ -7,6 +7,8 @@ No government body or actor shall enact, enforce, or tolerate policies, actions,
 
 Government bodies shall take proactive measures to ensure that all citizens, irrespective of such personal or social conditions or circumstances, are equal before the law and enjoy the same rights and freedoms without discrimination, and in the event of conflict between the rights of different groups, steps shall be taken to resolve them in a way that respects the dignity and freedoms of all parties, while giving priority to the principle of non-prejudice and ensuring that no one's fundamental rights are subordinated to prejudicial or discriminatory practices on the part of others.
 
+The exercise of rights or freedoms shall not be used as a justification to infringe upon the dignity, safety, or freedoms of others. Practices or actions that seek to perpetuate prejudice, exclusion, or harm under the guise of exercising one’s rights shall not be protected by this constitution.
+
 ### Article II. 
 No government body or actor shall in any way restrict the fundamental freedoms, namely freedom of thought, conscience, press and expression, which are inalienable and guaranteed to all citizens; it shall ensure that all individuals can enjoy them. This includes the freedom to seek, receive and impart information and ideas through any form of media without interference, censorship or prior restraint by government or other authorities, regardless of frontiers. Restrictions must be in accordance with the law.
 
