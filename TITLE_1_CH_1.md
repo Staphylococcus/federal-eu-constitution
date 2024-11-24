@@ -60,7 +60,7 @@ Children shall be protected from all forms of violence, abuse, neglect, exploita
 Every citizen has the right to access information held by public authorities, subject only to lawful restrictions necessary for the protection of national security, public order, privacy, or other legitimate interests. Public authorities shall ensure transparency by providing information in an open, timely, and accessible manner, and citizens are entitled to request clear, accurate, and complete responses. The right to access includes the reasoning behind decisions that affect individuals or the public. Any denial of information must be justified by law, and citizens may challenge such refusals before an independent body or court, which shall have the authority to make binding decisions.
 
 ### Article XX. 
-No governmental body or actor shall enact or enforce laws which prevent two persons from marrying, discriminate the value of this union or founding a family on such pretexts as sexual orientation or other personal or social conditions or circumstances described in Article I, or from contracting a marriage without the free and full consent of both parties, having reached the legal age of consent, and no third party whatsoever shall oppose the marriage of two consenting adults.
+No governmental body or actor shall enact or enforce laws which prevent two persons from marrying, discriminate the value of this union or founding a family on such pretexts as sexual orientation or other personal or social conditions or circumstances described in this constitution, or from contracting a marriage without the free and full consent of both parties, having reached the legal age of consent, and no third party whatsoever shall oppose the marriage of two consenting adults.
 
 ---
 
