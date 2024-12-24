@@ -19,8 +19,6 @@ Journalists shall be protected in the exercise of their professional duties, inc
 
 The government shall ensure a pluralistic media landscape free from undue concentration of ownership by establishing and enforcing clear regulatory frameworks. Such frameworks must be subject to independent oversight and shall include provisions for transparency in media ownership to prevent covert monopolies or excessive influence by any entity, public or private. Media outlets shall not face retaliatory actions, such as selective taxation, targeted licensing, or disproportionate penalties, for lawful reporting or criticism of the government.
 
-The government shall publish an annual report detailing actions taken to regulate the media landscape, including any restrictions applied, with clear justifications and an assessment of their proportionality and necessity. This report shall be reviewed by an independent oversight body to ensure transparency and accountability.
-
 ### Article IV. 
 No government body or actor shall, in any way other than those specified in this Constitution, prohibit the free exercise of any religion, and all individuals shall have the right to freedom of religion or belief. This right includes the freedom to hold, adopt, change, or renounce one’s religion or belief, as well as the freedom to manifest religion or belief through worship, practice, observance, and teaching, whether individually or in community with others, in public or private spaces. 
 
