@@ -43,7 +43,13 @@ Every citizen has the right to personal security and privacy. No government body
 Citizens’ personal data and communications are protected against arbitrary interference. Data can only be collected, stored, and processed with the individual’s consent and in accordance with the law. The right to be forgotten is guaranteed.
 
 ### Article XI. 
-No citizen shall be expelled, deported, or deprived of their nationality arbitrarily. Every citizen has the right to remain in their home country, and any removal must follow due process and the law.
+No citizen shall be arbitrarily expelled from the territory of the state, deported, or deprived of their nationality under any circumstances. Citizenship is an inherent and inalienable right that shall not be revoked except in cases of proven fraud in its acquisition, and only after due process of law has been fully observed, including the right to a fair hearing, legal representation, and appeal.
+
+Every citizen has the unconditional right to reside within the territory of their home country. No individual shall be forcibly removed, exiled, or compelled to leave their country except in cases involving lawful extradition procedures based on international agreements and following the principles of transparency, fairness, and necessity.
+
+The removal of a citizen from their home country, where legally permissible, must be carried out strictly in accordance with a court order issued after exhaustive judicial review. Such procedures must ensure the protection of fundamental rights, including the individual’s access to legal remedies, protection against statelessness, and preservation of family unity. Decisions that violate these principles shall be null and void.
+
+Any government action seeking to expel, deport, or revoke the nationality of a citizen must be justified by clear, specific, and verifiable evidence. The burden of proof shall rest entirely on the state, and the individual concerned must have the opportunity to challenge the decision in a competent, independent, and impartial tribunal.
 
 ### Article XII. 
 Every individual has the right to move freely within the country, choose their place of residence, and leave and return at any time. Restrictions on movement must be lawful, proportionate, non-discriminatory, and subject to judicial review.
