@@ -83,9 +83,11 @@ Any government action seeking to expel, deport, or revoke the nationality of a c
 ### Article XII. 
 Every citizen is entitled to an inalienable and unqualified right to move freely and unhindered within the national territory. This right includes traveling, residing, and settling in any region of the country without interference. Internal movement shall not be contingent upon permits, surveillance, checkpoints, or other administrative barriers unless explicitly authorized by a narrowly tailored law. Such a law must address exceptional circumstances where restrictions are demonstrably necessary to protect public health during an officially declared emergency, respond to a specific and immediate national security threat, or prevent a concrete and imminent criminal act with direct evidence supporting the restriction. Laws governing such limitations must precisely define their scope, justify their necessity, and stipulate the conditions under which they apply.
 
-Citizens may freely choose their place of residence within the national territory. This right encompasses the ability to purchase, lease, or otherwise occupy property in any region, city, or locality, subject only to non-discriminatory property and zoning regulations that serve a legitimate and neutral purpose. Any attempt to prevent, deny, or revoke the exercise of this right must be clearly grounded in law and must not favor or disadvantage individuals for discriminatory reasons.
+Citizens can freely choose their place of residence within the national territory. This right encompasses the ability to purchase, lease, or otherwise occupy property in any region, city, or locality, subject only to non-discriminatory property and zoning regulations that serve a legitimate and neutral purpose. Any attempt to prevent, deny, or revoke the exercise of this right must be clearly grounded in law and must not favor or disadvantage individuals for discriminatory reasons.
 
-The right of every citizen to leave the country and return at any time is absolute and shall not be curtailed except under clearly defined circumstances established by law. Restrictions may only arise in cases where national security faces an immediate and demonstrable risk, where a declared public health emergency necessitates such measures, or where an individual is subject to an enforceable judicial order related to ongoing criminal investigations or proceedings. Any restriction on exit or re-entry must be substantiated with a written justification specifying the lawful basis, and the affected individual shall have immediate access to judicial review. Citizens cannot be arbitrarily exiled, deported, or denied the ability to return to their own country under any circumstances.
+The right of every citizen to leave the country and return at any time is absolute and shall not be curtailed except under clearly defined circumstances established by law. Restrictions may only arise in cases where national security faces an immediate and demonstrable risk, where a declared public health emergency necessitates such measures, or where an individual is subject to an enforceable judicial order related to ongoing criminal investigations or proceedings. Any restriction on exit or re-entry must be substantiated with a written justification specifying the lawful basis, and the affected individual shall have immediate access to judicial review. 
+
+Citizens cannot be arbitrarily exiled, deported, or denied the ability to return to their own country under any circumstances.
 
 The unlawful restriction of movement, residence, or travel by any person or authority constitutes a serious violation of fundamental rights. Such actions shall render the offending parties liable under both civil and criminal law, with victims entitled to timely redress. 
 
@@ -96,13 +98,15 @@ Everyone has the right to acquire, own, use, and dispose of private property, ei
 The death penalty shall be abolished, no individual shall be subjected to capital punishment under any circumstances; life imprisonment with the possibility of parole after twenty years or less constitutes the maximum penalty for criminal offenses, in accordance with the principles of human dignity and justice defined in Article VIII.
 
 ### Article XV. 
+No government body, actor, official, or private entity shall discriminate against citizens of other states in favor of its own citizens with respect to basic privileges, freedoms and immunities. These privileges, freedoms and immunities include the protection of the government, the enjoyment of life and liberty, the right of a citizen of one state to pass through or reside in another state for commercial, agricultural, professional or other purposes, to claim the benefit of habeas corpus, to institute and prosecute legal proceedings in the courts of the state, to own, hold and dispose of property and to be exempt from taxes or duties higher than those paid by other citizens of the state.
+
 All foreigners legally present in the country enjoy the protection of the law in respect of their person and property.
 
 ### Article XVI. 
-No one may be extradited except by virtue of a duly ratified international convention.
+No one shall be extradited except by virtue of a duly ratified international convention.
 
 ### Article XVII. 
-Under no circumstances may a political refugee legally entitled to asylum be handed over or extradited.
+No government body or actor shall impose any special taxes on emigration from a State or from the Federation, but unrealized gains may be considered realized for tax purposes if the asset is also emigrating.
 
 ### Article XVIII. 
 Children shall be protected from all forms of violence, abuse, neglect, exploitation, and harmful practices. Governments at all levels shall take effective measures to prevent child labor, trafficking, and any other forms of exploitation that may harm a child’s physical or mental well-being.
